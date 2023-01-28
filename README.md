@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+I'm a Beginning FullStack Developer.
+
+My education: Master's Degree in Informatics and Computer Engineering
+
+## My tech stack
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
